@@ -1,5 +1,5 @@
-input_path = "input/2023-02-11 15-35-24.mkv"
-output_dir = "sep"
+input_path = "input/test.mkv"
+output_dir = 'sep'
 name = "test"
 
 import os
